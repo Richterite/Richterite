@@ -7,6 +7,7 @@ A guy who passionate  about Machine Learning, Web Development, and Data Science
 - 🌱 I’m currently improving my DSA Skills and my Chinese Language 汉语 
 - 💬 Ask me anything about AI, Astronomy and Books :)
 - 📫 how to reach me: **fikrifauzy156@gmail.com**
+- :pushpin: Aiming to get HSK 4 Certification, 祝我好运！:D
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fauzy_re) 
