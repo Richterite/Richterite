@@ -4,7 +4,7 @@ A guy who passionate  about Machine Learning, Web Development, and Data Science
 ## 💫 About Me
 
 - 🔭 I’m currently working on AI and Web Development Related Projects
-- 🌱 I’m currently improving my DSA Skills and Mandarin 
+- 🌱 I’m currently improving my DSA Skills and my Chinese Language 汉语 
 - 💬 Ask me anything about AI, Astronomy and Books :)
 - 📫 how to reach me: **fikrifauzy156@gmail.com**
 
